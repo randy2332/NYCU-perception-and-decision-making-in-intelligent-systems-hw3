@@ -8,7 +8,7 @@ We also store the 2d map call “map.py”
 python build2dmap.py
 ```
 
-![Screenshot from 2023-11-30 00-36-35.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/map.jpg)
+![Screenshot from 2023-11-30 00-36-35.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/map.png)
 
 ---
 
@@ -52,4 +52,4 @@ python load.py -p <target>
 
 We highlight the target with a transparent mask while navigating, so that we can clearly visualize the target category
 
-![686.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/686.jpg)
+![686.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/686.png)
