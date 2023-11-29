@@ -8,7 +8,7 @@ We also store the 2d map call “map.py”
 python build2dmap.py
 ```
 
-![Screenshot from 2023-11-30 00-36-35.png](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/Screenshot_from_2023-11-30_00-36-35.png)
+![Screenshot from 2023-11-30 00-36-35.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/map.jpg)
 
 ---
 
@@ -26,23 +26,23 @@ Below is the result of RRT algorithm
 
 - cooktop
 
-![cooktop.jpg](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/cooktop.jpg)
+![cooktop.jpg](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/cooktop.jpg)
 
 - cushion
 
-![cushion.jpg](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/cushion.jpg)
+![cushion.jpg](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/cushion.jpg)
 
 - lamp
 
-![lamp.jpg](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/lamp.jpg)
+![lamp.jpg](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/lamp.jpg)
 
 - rack
 
-![rack.jpg](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/rack.jpg)
+![rack.jpg](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/rack.jpg)
 
 - stair
 
-![stair.jpg](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/stair.jpg)
+![stair.jpg](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/stair.jpg)
 
 ---
 
@@ -52,4 +52,4 @@ python load.py -p <target>
 
 We highlight the target with a transparent mask while navigating, so that we can clearly visualize the target category
 
-![686.png](NYCU-perception-and-decision-making-in-intelligent%20248819f27a224478b8eafd403203f4e1/686.png)
+![686.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw3/blob/main/videoandpicture/686.jpg)
