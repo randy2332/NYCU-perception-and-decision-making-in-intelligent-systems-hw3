@@ -22,7 +22,7 @@ Next, the system will ask you about your target. Afterwards, you will be present
 
 We also output path point called “movingoath.npy”
 
-Below is the result of RRT algorithm
+Below is the result of RRT algorithm implementation
 
 - cooktop
 
