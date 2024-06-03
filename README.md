@@ -1,4 +1,4 @@
-# NYCU-perception-and-decision-making-in-intelligent-systems-hw3
+
 
 On the established 2D map, the positions of the targets are marked. The targets are labeled with points in accordance with this sequence” rack , cushion, lamp, stair cooktop 
 
